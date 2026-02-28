@@ -27,4 +27,4 @@ KidsBlock 编译工具链托管仓库。
 
 | 版本 | 说明 |
 | :--- | :--- |
-| v1.0.0 | 初始版本，基于 openblock-tools v2.11.1 |
+| v1.0.0 | 初始版本，基于 kidsblock-tools v1.0.0|
